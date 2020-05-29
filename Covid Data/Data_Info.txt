@@ -16,3 +16,4 @@ statewise_tested_numbers_data	https://api.covid19india.org/csv/latest/statewise_
 tested_numbers_icmr_data	https://api.covid19india.org/csv/latest/tested_numbers_icmr_data.csv		Number of tests reported by ICMR
 COVID-19 Cases			Result of the notebook, 'Raw Data Merger'					Contains the merged dataset of raw_data1, raw_data2, raw_data3, raw_data4, raw_data5
 state_wise_daily_ts 		Result of the notebook 'Statewise_time_series_transformer'			Formatted form of the state_wise_daily dataset.
+Global COVID-19 Cases 		Result of the notebook 'Global data collector and merger'			Collection of the daily global data of COVID-19
