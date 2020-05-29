@@ -1,4 +1,4 @@
-Label				Location										Information
+Label				Location									Information
 
 
 raw_data1			https://api.covid19india.org/csv/latest/raw_data1.csv				Data added to represent confirmed cases till Apr 19th
