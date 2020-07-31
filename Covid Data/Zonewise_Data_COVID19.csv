@@ -1,0 +1,718 @@
+Sno,District,State,Category,District_level_Infected,Deaths,Total number of Primary Health Centres,Total number of Community Health Centres,Total number of Subdivisional Hospitals,Total number of Divisional Hospitals
+1,Leh(ladakh),Jammu & Kashmir,Green,34,0,16,3,0,1
+2,Kargil,Jammu & Kashmir,Red,12,0,16,4,0,1
+3,Kupwara,Jammu & Kashmir,Red,147,0,17,7,0,1
+4,Bandipore,Jammu & Kashmir,Yellow,140,1,13,3,0,1
+5,Baramula,Jammu & Kashmir,Red,128,4,32,6,0,1
+6,Ganderbal,Jammu & Kashmir,Yellow,27,0,19,1,0,1
+7,Anantnag,Jammu & Kashmir,Red,272,4,19,5,0,1
+8,Kishtwar,Jammu & Kashmir,Green,7,0,16,1,0,1
+9,Srinagar,Jammu & Kashmir,Red,197,6,40,1,0,1
+10,Badgam,Jammu & Kashmir,Red,64,2,49,9,0,1
+11,Pulwama,Jammu & Kashmir,Red,25,0,33,3,0,1
+12,Punch,Jammu & Kashmir,Green,6,0,32,3,0,1
+13,Shupiyan,Jammu & Kashmir,Red,127,0,10,2,0,1
+14,Kulgam,Jammu & Kashmir,Red,198,1,26,3,0,1
+15,Rajouri,Jammu & Kashmir,Green,10,0,37,7,0,1
+16,Ramban,Jammu & Kashmir,Red,44,0,19,3,0,1
+17,Reasi,Jammu & Kashmir,Yellow,4,0,22,2,0,1
+18,Doda,Jammu & Kashmir,Green,1,0,26,3,0,1
+19,Jammu,Jammu & Kashmir,Yellow,52,1,37,8,0,2
+20,Kathua,Jammu & Kashmir,Red,41,1,38,5,0,1
+21,Udhampur,Jammu & Kashmir,Yellow,33,1,31,2,0,1
+22,Samba,Jammu & Kashmir,Red,20,0,12,3,0,1
+23,Lahul & Spiti,Himachal Pradesh,Green,0,0,17,3,0,1
+24,Chamba,Himachal Pradesh,Yellow,12,0,45,5,6,1
+25,Kangra,Himachal Pradesh,Yellow,47,3,87,17,18,1
+26,Kullu,Himachal Pradesh,Green,1,0,28,5,4,1
+27,Mandi,Himachal Pradesh,Green,10,0,85,13,13,1
+28,Kinnaur,Himachal Pradesh,Green,0,0,24,4,1,1
+29,Una,Himachal Pradesh,Yellow,20,0,24,9,5,1
+30,Shimla,Himachal Pradesh,Green,2,0,44,6,12,1
+31,Solan,Himachal Pradesh,Yellow,19,1,41,6,6,1
+32,Sirmaur,Himachal Pradesh,Yellow,4,0,121,17,5,1
+33,Hamirpur,Himachal Pradesh,Yellow,58,1,32,2,5,1
+34,Bilaspur,Himachal Pradesh,Green,4,0,38,7,3,1
+35,Gurdaspur,Punjab,Yellow,129,3,0,4,0,1
+36,Hoshiarpur,Punjab,Yellow,102,5,6,12,3,1
+37,Amritsar,Punjab,Yellow,318,5,22,6,2,1
+38,Jalandhar,Punjab,Red,213,6,2,12,2,1
+39,Tarn Taran,Punjab,Yellow,155,0,3,11,2,1
+40,Rupnagar,Punjab,Green,61,1,1,5,1,1
+41,Shahid Bhagat Singh Nagar,Punjab,Yellow,105,1,,,,
+42,Fazilka,Punjab,Green,44,0,,,,
+43,Moga,Punjab,Yellow,59,0,10,6,0,1
+44,Ludhiana,Punjab,Red,172,7,5,11,4,1
+45,Sahibzada Ajit Singh Nag*,Punjab,Yellow,103,3,,,,
+46,Faridkot,Punjab,Yellow,61,0,3,4,1,1
+47,Fatehgarh Sahib,Punjab,Green,53,0,0,5,1,1
+48,Muktsar,Punjab,Yellow,66,0,2,5,3,1
+49,Sangrur,Punjab,Yellow,88,0,7,8,4,1
+50,Barnala,Punjab,Yellow,22,1,3,4,1,1
+51,Bathinda,Punjab,Green,42,0,6,9,3,1
+52,Patiala,Punjab,Red,107,2,1,10,3,1
+53,Mansa,Punjab,Yellow,32,0,3,4,2,1
+54,Firozpur,Punjab,Yellow,43,1,6,6,1,1
+55,Pathankot,Punjab,Yellow,32,1,,,,
+56,Kapurthala,Punjab,Yellow,37,3,0,5,3,1
+57,Chandigarh,Chandigarh,Red,225,3,36,2,1,1
+58,Uttarkashi,Uttarakhand,Yellow,10,0,10,4,0,2
+59,Chamoli,Uttarakhand,Green,1,0,16,6,0,1
+60,Dehradun,Uttarakhand,Yellow,62,1,21,7,4,0
+61,Tehri Garhwal,Uttarakhand,Green,6,0,29,5,1,1
+62,Rudraprayag,Uttarakhand,Green,3,0,16,2,0,1
+63,Pithoragarh,Uttarakhand,Green,2,0,18,4,0,2
+64,Bageshwar,Uttarakhand,Green,6,0,13,3,0,1
+65,Hardwar,Uttarakhand,Green,12,0,26,7,2,2
+66,Garhwal,Uttarakhand,Yellow,6,0,26,5,3,2
+67,Almora,Uttarakhand,Yellow,7,0,25,8,2,2
+68,Nainital,Uttarakhand,Yellow,30,0,12,8,4,2
+69,Champawat,Uttarakhand,Green,7,0,8,1,1,1
+70,Udham Singh Nagar,Uttarakhand,Yellow,34,0,23,7,1,1
+71,Jhajjar,Haryana,Yellow,91,0,8,6,2,1
+72,Gurugram,Haryana,Yellow,262,3,3,3,2,2
+73,Faridabad,Haryana,Yellow,195,6,2,8,1,1
+74,Mahendragarh,Haryana,Yellow,21,0,8,7,1,1
+75,Rewari,Haryana,Yellow,11,0,16,5,1,1
+76,Mewat,Haryana,Yellow,62,0,6,3,0,1
+77,Palwal,Haryana,Yellow,41,0,6,7,0,1
+78,Charkhi Dadri,Haryana,Yellow,0,0,,,,
+79,Yamunanagar,Haryana,Yellow,8,0,3,6,1,1
+80,Kurukshetra,Haryana,Yellow,15,0,4,5,0,1
+81,Kaithal,Haryana,Yellow,5,0,20,6,0,1
+82,Sirsa,Haryana,Yellow,9,0,8,8,1,1
+83,Karnal,Haryana,Yellow,24,1,6,6,1,1
+84,Jind,Haryana,Yellow,26,0,24,7,1,1
+85,Fatehabad,Haryana,Yellow,8,0,22,4,1,1
+86,Hisar,Haryana,Yellow,12,0,7,10,2,1
+87,Panipat,Haryana,Yellow,53,3,7,6,0,1
+88,Sonipat,Haryana,Yellow,154,1,10,8,1,1
+89,Bhiwani,Haryana,Yellow,14,0,12,3,1,0
+90,Rohtak,Haryana,Yellow,15,1,20,7,0,1
+91,Panchkula,Haryana,Yellow,26,0,0,3,0,1
+92,Ambala,Haryana,Yellow,42,2,0,4,2,1
+93,North,Delhi,Red,269,0,40,0,0,3
+94,Central,Delhi,Red,512,0,69,0,3,9
+95,New Delhi,Delhi,Red,1458,1,73,0,3,7
+96,South,Delhi,Red,367,7,34,0,0,2
+97,Amroha,Uttar Pradesh,Red,41,1,15,8,0,1
+98,Hapur,Uttar Pradesh,Yellow,87,1,,,,
+99,Bareilly,Uttar Pradesh,Red,29,1,52,6,0,2
+100,Pilibhit,Uttar Pradesh,Yellow,38,0,23,6,0,2
+101,Bulandshahr,Uttar Pradesh,Red,101,1,41,10,0,4
+102,Gautam Buddha Nagar,Uttar Pradesh,Red,320,5,12,5,0,1
+103,Kheri,Uttar Pradesh,Green,48,0,46,14,0,2
+104,Budaun,Uttar Pradesh,Yellow,34,0,40,8,0,2
+105,Bahraich,Uttar Pradesh,Yellow,67,0,37,10,0,2
+106,Shahjahanpur,Uttar Pradesh,Green,14,0,37,16,0,2
+107,Aligarh,Uttar Pradesh,Red,116,10,45,13,0,3
+108,Kasganj,Uttar Pradesh,Yellow,13,0,24,7,0,1
+109,Mathura,Uttar Pradesh,Red,57,2,20,7,0,3
+110,Shrawasti,Uttar Pradesh,Yellow,28,1,4,6,0,1
+111,Sitapur,Uttar Pradesh,Yellow,39,0,65,18,0,2
+112,Mahamaya Nagar,Uttar Pradesh,Yellow,0,0,10,7,0,2
+113,Etah,Uttar Pradesh,Yellow,6,1,24,4,0,2
+114,Hardoi,Uttar Pradesh,Yellow,21,0,45,7,0,2
+115,Farrukhabad,Uttar Pradesh,Green,21,0,13,8,0,3
+116,Firozabad,Uttar Pradesh,Red,184,6,43,9,0,3
+117,Siddharthnagar,Uttar Pradesh,Green,74,0,55,8,0,1
+118,Mainpuri,Uttar Pradesh,Yellow,27,2,37,10,0,2
+119,Mahrajganj,Uttar Pradesh,Green,32,1,27,12,0,1
+120,Agra,Uttar Pradesh,Red,848,36,42,16,0,2
+121,Gonda,Uttar Pradesh,Yellow,38,0,39,16,0,2
+122,Bara Banki,Uttar Pradesh,Green,133,0,25,17,0,2
+123,Kushinagar,Uttar Pradesh,Green,7,1,37,16,0,1
+124,Kannauj,Uttar Pradesh,Yellow,30,0,14,11,0,2
+125,Lucknow,Uttar Pradesh,Red,341,2,18,17,0,10
+126,Basti,Uttar Pradesh,Yellow,114,2,32,11,0,3
+127,North East,Delhi,Red,128,0,33,0,1,6
+128,West,Delhi,Red,204,0,73,0,0,7
+129,Ajmer,Rajasthan,Red,285,5,72,22,3,1
+130,Rajsamand,Rajasthan,Red,84,0,33,12,1,1
+131,Chittaurgarh,Rajasthan,Yellow,170,3,54,21,1,1
+132,Ganganagar,Rajasthan,Green,1,0,52,17,0,1
+133,Hanumangarh,Rajasthan,Yellow,14,0,48,16,0,1
+134,Bikaner,Rajasthan,Red,75,2,45,16,0,0
+135,Pratapgarh,Rajasthan,Yellow,22,1,28,8,0,1
+136,Gorakhpur,Uttar Pradesh,Yellow,28,3,57,9,0,2
+137,Sant Kabir Nagar,Uttar Pradesh,Red,49,4,22,4,0,1
+138,Unnao,Uttar Pradesh,Yellow,22,1,39,7,0,2
+139,Etawah,Uttar Pradesh,Yellow,29,0,14,8,0,2
+140,East,Delhi,Red,289,0,34,0,0,2
+141,South West,Delhi,Red,131,1,42,0,1,3
+142,Shahdara,Delhi,Red,47,0,,,,
+143,South East,Delhi,Red,93,2,49,0,0,2
+144,North West,Delhi,Red,466,1,65,0,1,5
+145,Churu,Rajasthan,Yellow,65,1,80,16,2,1
+146,Jhunjhunun,Rajasthan,Green,85,0,104,26,0,1
+147,Jaisalmer,Rajasthan,Yellow,100,0,20,8,0,1
+148,Sikar,Rajasthan,Red,79,4,96,30,2,1
+149,Alwar,Rajasthan,Yellow,52,2,123,37,0,1
+150,Jaipur,Rajasthan,Red,1723,77,118,19,1,0
+151,Jodhpur,Rajasthan,Red,1214,17,95,25,0,0
+152,Bharatpur,Rajasthan,Yellow,135,4,64,17,0,1
+153,Nagaur,Rajasthan,Red,296,6,117,31,3,1
+154,Dausa,Rajasthan,Yellow,41,0,48,15,0,1
+155,Karauli,Rajasthan,Green,10,2,36,11,1,1
+156,Dhaulpur,Rajasthan,Yellow,38,0,36,7,1,1
+157,Barmer,Rajasthan,Red,76,0,89,23,1,1
+158,Sawai Madhopur,Rajasthan,Yellow,17,1,33,14,1,1
+159,Tonk,Rajasthan,Yellow,159,1,58,9,0,1
+160,Pali,Rajasthan,Red,280,7,80,21,1,1
+161,Bhilwara,Rajasthan,Red,111,2,77,25,0,1
+162,Jalor,Rajasthan,Red,149,2,62,10,0,1
+163,Bundi,Rajasthan,Green,0,0,27,12,0,1
+164,Kota,Rajasthan,Red,373,16,45,13,0,0
+165,Sirohi,Rajasthan,Red,96,0,30,9,0,1
+166,Baran,Rajasthan,Yellow,5,0,30,14,0,1
+167,Udaipur,Rajasthan,Red,439,1,95,28,1,0
+168,Jhalawar,Rajasthan,Green,59,0,35,14,0,0
+169,Dungarpur,Rajasthan,Red,314,0,53,15,1,1
+170,Banswara,Rajasthan,Yellow,85,1,56,21,0,1
+171,Kanpur Nagar,Uttar Pradesh,Red,323,9,23,10,0,4
+172,Auraiya,Uttar Pradesh,Yellow,22,0,17,7,0,2
+173,Faizabad,Uttar Pradesh,Yellow,53,3,33,5,0,3
+174,Kanpur Dehat,Uttar Pradesh,Green,7,1,11,6,0,1
+175,Deoria,Uttar Pradesh,Green,30,0,66,16,0,2
+176,Sultanpur,Uttar Pradesh,Yellow,42,0,19,13,0,2
+177,Ambedkar Nagar,Uttar Pradesh,Green,31,1,15,10,0,1
+178,Rae Bareli,Uttar Pradesh,Red,61,1,36,17,0,2
+179,Jalaun,Uttar Pradesh,Yellow,39,2,33,7,0,2
+180,Azamgarh,Uttar Pradesh,Yellow,31,0,56,19,0,2
+181,Mau,Uttar Pradesh,Yellow,13,0,21,6,0,2
+182,Fatehpur,Uttar Pradesh,Green,33,0,35,7,0,2
+183,Ballia,Uttar Pradesh,Green,14,0,71,9,0,2
+184,Jaunpur,Uttar Pradesh,Yellow,88,2,73,16,0,2
+185,Jhansi,Uttar Pradesh,Yellow,27,2,25,8,0,2
+186,Banda,Uttar Pradesh,Yellow,12,0,38,4,0,2
+187,Ghazipur,Uttar Pradesh,Yellow,75,0,43,6,0,2
+188,Kaushambi,Uttar Pradesh,Yellow,44,0,24,5,0,1
+189,Allahabad,Uttar Pradesh,Yellow,64,2,58,19,0,6
+190,Varanasi,Uttar Pradesh,Red,124,4,20,12,0,4
+191,Chitrakoot,Uttar Pradesh,Green,17,1,14,6,0,1
+192,Chandauli,Uttar Pradesh,Green,15,0,21,4,0,4
+193,Bhadohi,Uttar Pradesh,Yellow,13,0,8,5,0,2
+194,Mirzapur,Uttar Pradesh,Yellow,25,0,22,16,0,2
+195,Lalitpur,Uttar Pradesh,Green,1,1,21,4,0,2
+196,Sonbhadra,Uttar Pradesh,Green,3,0,26,7,0,1
+197,Amethi,Uttar Pradesh,Green,31,0,,,,
+198,Ghaziabad,Uttar Pradesh,Red,214,2,7,4,0,0
+199,Sambhal,Uttar Pradesh,Yellow,58,0,,,,
+200,Mahoba,Uttar Pradesh,Green,3,1,2,4,0,2
+201,Saharanpur,Uttar Pradesh,Red,211,0,43,12,0,2
+202,Bijnor,Uttar Pradesh,Red,62,1,48,7,0,2
+203,Muzaffarnagar,Uttar Pradesh,Red,39,0,6,7,0,0
+204,Baghpat,Uttar Pradesh,Yellow,28,0,6,7,0,1
+205,Meerut,Uttar Pradesh,Red,341,19,14,12,0,2
+206,Moradabad,Uttar Pradesh,Red,175,10,27,9,0,1
+207,Rampur,Uttar Pradesh,Red,111,0,15,5,0,2
+208,Shamli,Uttar Pradesh,Yellow,39,0,,,,
+209,Balrampur,Uttar Pradesh,Yellow,34,0,7,9,0,3
+210,Hamirpur,Uttar Pradesh,Green,4,0,34,4,0,2
+211,Pratapgarh,Uttar Pradesh,Green,59,3,36,12,0,2
+212,Pashchim Champaran,Bihar,Green,30,0,28,2,2,1
+213,Purba Champaran,Bihar,Yellow,56,1,40,11,3,1
+214,Sitamarhi,Bihar,Green,10,1,5,5,2,1
+215,Sheohar,Bihar,Green,6,0,19,0,0,1
+216,Gopalganj,Bihar,Yellow,89,0,53,8,1,1
+217,Samastipur,Bihar,Green,56,0,32,8,4,1
+218,Katihar,Bihar,Green,85,0,16,4,2,1
+219,Khagaria,Bihar,Green,88,2,49,1,0,1
+220,Bhojpur,Bihar,Yellow,40,0,31,4,2,1
+221,Buxar,Bihar,Red,100,0,29,1,1,1
+222,Darbhanga,Bihar,Yellow,31,0,79,8,1,0
+223,Saharsa,Bihar,Green,18,0,44,1,1,1
+224,Kaimur (bhabua),Bihar,Yellow,44,0,27,4,1,1
+225,Rohtas,Bihar,Red,123,1,42,6,2,1
+226,Jamui,Bihar,Green,27,0,28,6,0,1
+227,Banka,Bihar,Yellow,65,0,30,4,0,1
+228,Nawada,Bihar,Yellow,52,0,58,2,1,1
+229,Gaya,Bihar,Red,34,0,52,9,2,1
+230,Munger,Bihar,Red,137,1,75,2,2,1
+231,Vaishali,Bihar,Yellow,49,1,23,2,2,1
+232,Begusarai,Bihar,Yellow,127,1,27,2,4,1
+233,Bhagalpur,Bihar,Yellow,67,0,49,4,2,1
+234,Lakhisarai,Bihar,Yellow,26,0,8,1,0,1
+235,Sheikhpura,Bihar,Green,40,0,58,1,0,1
+236,Arwal,Bihar,Yellow,23,0,26,0,0,1
+237,Jehanabad,Bihar,Yellow,106,0,33,2,0,1
+238,Nalanda,Bihar,Yellow,83,0,78,3,2,1
+239,Patna,Bihar,Red,194,2,33,4,4,0
+240,Saran,Bihar,Yellow,29,0,65,9,2,1
+241,Siwan,Bihar,Yellow,56,0,4,3,1,1
+242,Muzaffarpur,Bihar,Green,32,0,12,9,0,1
+243,Madhepura,Bihar,Yellow,22,0,11,1,1,1
+244,Araria,Bihar,Green,5,0,26,2,1,1
+245,Supaul,Bihar,Green,39,0,55,2,1,1
+246,Madhubani,Bihar,Yellow,129,0,12,4,4,1
+247,Purnia,Bihar,Yellow,35,0,103,2,3,1
+248,Kishanganj,Bihar,Green,14,0,20,1,0,1
+249,Aurangabad,Bihar,Red,42,0,55,6,1,1
+250,North  District,Sikkim,Green,0,0,5,0,0,1
+251,West District,Sikkim,Green,0,0,7,0,0,1
+252,South District,Sikkim,Green,1,0,6,1,0,1
+253,East District,Sikkim,Green,0,0,7,1,0,1
+254,Upper Subansiri,Arunachal Pradesh,Green,0,0,15,5,0,1
+255,Anjaw,Arunachal Pradesh,Green,0,0,7,5,0,1
+256,Changlang,Arunachal Pradesh,Green,0,0,7,5,0,1
+257,Tawang,Arunachal Pradesh,Green,0,0,0,2,0,1
+258,Papum Pare,Arunachal Pradesh,Green,0,0,8,4,0,1
+259,Tirap,Arunachal Pradesh,Green,0,0,3,3,0,0
+260,East Siang,Arunachal Pradesh,Green,0,0,1,2,0,1
+261,Lohit,Arunachal Pradesh,Green,1,0,4,2,0,1
+262,Kurung Kumey,Arunachal Pradesh,Green,0,0,3,2,0,1
+263,Lower Subansiri,Arunachal Pradesh,Green,0,0,8,2,,1
+264,East Kameng,Arunachal Pradesh,Green,0,0,5,3,0,1
+265,West Kameng,Arunachal Pradesh,Green,0,0,5,5,0,1
+266,Kra Daadi,Arunachal Pradesh,Green,0,0,,,,
+267,Namsai,Arunachal Pradesh,Green,0,0,7,1,0,0
+268,Longding,Arunachal Pradesh,Green,0,0,,,,
+269,Upper Siang,Arunachal Pradesh,Green,0,0,1,4,0,1
+270,West Siang,Arunachal Pradesh,Green,0,0,8,3,0,1
+271,Upper Dibang Valley,Arunachal Pradesh,Green,0,0,1,1,0,1
+272,Lower Dibang Valley,Arunachal Pradesh,Green,0,0,3,4,,1
+273,Siang,Arunachal Pradesh,Green,0,0,8,3,0,0
+274,Mon,Nagaland,Green,0,0,15,2,0,1
+275,Longleng,Nagaland,Green,0,0,3,0,0,1
+276,Mokokchung,Nagaland,Green,0,0,15,3,0,1
+277,Tuensang,Nagaland,Green,0,0,1,5,2,1
+278,Kiphire,Nagaland,Green,0,0,2,1,0,1
+279,Peren,Nagaland,Green,0,0,8,1,0,1
+280,Wokha,Nagaland,Green,0,0,12,2,0,1
+281,Zunheboto,Nagaland,Green,0,0,13,2,0,1
+282,Phek,Nagaland,Green,0,0,23,3,0,1
+283,Kohima,Nagaland,Green,1,0,14,3,0,1
+284,Dimapur,Nagaland,Green,0,0,8,2,0,1
+285,Kamjong,Manipur,Green,0,0,,,,
+286,Senapati,Manipur,Green,0,0,6,1,0,0
+287,Tamenglong,Manipur,Green,0,0,4,1,0,1
+288,Imphal West,Manipur,Green,5,0,11,3,0,0
+289,Kakching,Manipur,Green,0,0,,,,
+290,Bishnupur,Manipur,Green,0,0,8,2,0,1
+291,Chandel,Manipur,Green,0,0,4,1,1,0
+292,Churachandpur,Manipur,Green,11,0,5,1,0,0
+293,Imphal East,Manipur,Green,3,0,2,1,0,1
+294,Jiribam,Manipur,Green,0,0,,,,
+295,Kangpokpi,Manipur,Green,0,0,,,,
+296,Thoubal,Manipur,Green,0,0,6,1,0,0
+297,Tengnoupal,Manipur,Green,0,0,,,,
+298,Ukhrul,Manipur,Green,0,0,2,1,0,0
+299,Noney,Manipur,Green,0,0,,,,
+300,Pherzawl,Manipur,Green,0,0,,,,
+301,Kolasib,Mizoram,Green,0,0,5,1,0,1
+302,Aizawl,Mizoram,Green,1,0,9,0,1,1
+303,Mamit,Mizoram,Green,0,0,6,1,0,1
+304,Champhai,Mizoram,Green,0,0,11,2,0,1
+305,Sivasagar,Assam,Green,7,0,38,4,2,1
+306,Jorhat,Assam,Green,8,0,24,6,2,0
+307,Sonitpur,Assam,Green,14,0,46,9,2,1
+308,Serchhip,Mizoram,Green,0,0,5,1,0,1
+309,Lunglei,Mizoram,Green,0,0,11,1,1,1
+310,Saiha,Mizoram,Green,0,0,4,0,0,1
+311,Lawngtlai,Mizoram,Green,0,0,5,1,0,1
+312,North Tripura,Tripura,Yellow,3,0,6,1,1,1
+313,Dhalai,Tripura,Green,161,0,6,2,3,1
+314,Sipahijala,Tripura,Green,0,0,,,,
+315,Gomati,Tripura,Yellow,1,0,12,3,2,1
+316,Khowai,Tripura,Green,1,0,,,,
+317,West Tripura,Tripura,Green,0,0,13,3,0,1
+318,South Tripura,Tripura,Green,0,0,7,5,2,1
+319,Unokoti,Tripura,Green,0,0,,,,
+320,Ribhoi,Meghalaya,Green,0,0,8,3,0,1
+321,West Khasi Hills,Meghalaya,Green,0,0,15,2,0,2
+322,East Jaintia Hills,Meghalaya,Green,0,0,,,,
+323,East Khasi Hills,Meghalaya,Yellow,13,1,25,7,0,2
+324,South Garo Hills,Meghalaya,Green,0,0,6,1,0,1
+325,West Garo Hills,Meghalaya,Green,0,0,9,5,0,2
+326,East Garo Hills,Meghalaya,Green,0,0,9,1,0,0
+327,West Jaintia Hills,Meghalaya,Green,0,0,12,3,0,1
+328,Golaghat,Assam,Green,16,0,35,4,1,1
+329,Udalguri,Assam,Green,2,0,15,6,0,1
+330,Chirang,Assam,Green,0,0,19,3,0,1
+331,South West Khasi Hills,Meghalaya,Green,0,0,4,2,0,0
+332,North Garo Hills,Meghalaya,Green,0,0,,,,
+333,South West Garo Hills,Meghalaya,Green,0,0,,,,
+334,Tinsukia,Assam,Green,1,0,15,8,0,1
+335,Dhemaji,Assam,Green,0,0,15,4,0,1
+336,Dibrugarh,Assam,Green,1,0,21,9,0,0
+337,Lakhimpur,Assam,Green,4,0,17,8,1,1
+338,Baksa,Assam,Green,0,0,25,6,0,1
+339,Nagaon,Assam,Green,6,0,58,18,0,1
+340,Kokrajhar,Assam,Green,7,0,38,2,1,1
+341,Darrang,Assam,Green,1,0,29,7,0,1
+342,Barpeta,Assam,Green,4,0,33,11,1,1
+343,Nalbari,Assam,Green,8,0,33,11,0,1
+344,Morigaon,Assam,Yellow,10,0,30,5,0,1
+345,Kamrup,Assam,Green,10,0,55,13,1,1
+346,Bongaigaon,Assam,Green,5,0,16,4,0,1
+347,Dhubri,Assam,Yellow,8,0,25,6,2,1
+348,Kamrup Metropolitan,Assam,Green,154,3,11,3,0,1
+349,Goalpara,Assam,Yellow,6,0,19,6,0,1
+350,Dima Hasao,Assam,Green,7,0,8,2,0,1
+351,Cachar,Assam,Green,24,0,20,6,0,1
+352,Karimganj,Assam,Green,5,0,22,7,0,1
+353,Hailakandi,Assam,Green,2,1,11,3,0,1
+354,Charaideo,Assam,Green,0,0,,,,
+355,Majuli,Assam,Green,0,0,,,,
+356,Biswanath,Assam,Green,2,0,,,,
+357,Hojai,Assam,Green,15,0,,,,
+358,South Salmara-mankachar,Assam,Green,1,0,,,,
+359,Karbi Anglong East,Assam,Green,0,0,26,8,1,1
+360,Karbi Anglong West,Assam,Green,2,0,,,,
+361,South Twenty Four Pargan*,West Bengal,Red,194,5,76,33,12,2
+362,Darjiling,West Bengal,Red,18,1,7,0,,
+363,Jalpaiguri,West Bengal,Red,4,1,2,8,3,1
+364,Dakshin Dinajpur,West Bengal,Green,4,0,22,9,3,1
+365,Maldah,West Bengal,Red,50,0,40,17,2,0
+366,Murshidabad,West Bengal,Yellow,35,1,81,28,7,0
+367,Birbhum,West Bengal,Green,21,0,11,19,4,2
+368,Nadia,West Bengal,Red,25,0,64,18,5,1
+369,Purba Barddhaman,West Bengal,Red,26,1,18,24,3,0
+370,Puruliya,West Bengal,Green,0,0,55,20,3,1
+371,Bankura,West Bengal,Green,0,0,73,22,5,1
+372,North Twenty Four Pargan*,West Bengal,Red,538,37,149,35,12,2
+373,Hooghly,West Bengal,Red,189,6,91,22,6,1
+374,Paschim Medinipur,West Bengal,Red,25,0,26,8,3,1
+375,Howrah,West Bengal,Red,766,36,36,16,8,1
+376,Palamu,Jharkhand,Green,15,0,22,7,2,1
+377,Chatra,Jharkhand,Green,1,0,8,5,0,1
+378,Garhwa,Jharkhand,Yellow,47,0,10,6,1,1
+379,Jamtara,Jharkhand,Green,2,0,6,4,0,1
+380,Dhanbad,Jharkhand,Yellow,7,0,20,7,0,0
+381,Latehar,Jharkhand,Green,4,0,4,6,0,1
+382,Bokaro,Jharkhand,Yellow,15,1,2,8,3,1
+383,Ramgarh,Jharkhand,Green,3,0,5,4,0,1
+384,Ranchi,Jharkhand,Red,112,2,18,13,1,1
+385,Lohardaga,Jharkhand,Green,2,0,9,4,0,1
+386,Gumla,Jharkhand,Green,10,0,0,10,0,1
+387,Khunti,Jharkhand,Green,0,0,7,5,0,1
+388,Saraikela-kharsawan,Jharkhand,Green,4,0,4,6,1,1
+389,Purbi Singhbhum,Jharkhand,Green,16,0,0,9,1,1
+390,Pashchimi Singhbhum,Jharkhand,Green,1,0,9,13,1,1
+391,Simdega,Jharkhand,Yellow,3,0,7,6,0,1
+392,Kodarma,Jharkhand,Yellow,16,0,6,6,0,1
+393,Hazaribagh,Jharkhand,Yellow,33,0,7,8,1,1
+394,Bhadrak,Odisha,Red,98,0,21,7,0,1
+395,Dhenkanal,Odisha,Yellow,2,0,25,10,2,1
+396,Jajapur,Odisha,Red,240,0,15,12,0,1
+397,Subarnapur,Odisha,Green,0,0,1,5,1,1
+398,Nuapada,Odisha,Green,0,0,5,5,1,1
+399,Balangir,Odisha,Green,11,0,18,15,2,1
+400,Baudh,Odisha,Green,33,0,0,5,0,1
+401,Cuttack,Odisha,Green,57,1,14,22,2,1
+402,Kandhamal,Odisha,Green,5,0,8,14,1,1
+403,Kolkata,West Bengal,Red,1662,178,144,4,0,0
+404,Purba Medinipur,West Bengal,Red,101,1,40,24,7,2
+405,Alipurduar,West Bengal,Green,0,0,,,,
+406,Paschim Barddhaman,West Bengal,Yellow,21,2,,,,
+407,Kalimpong,West Bengal,Red,6,1,,,,
+408,Jhargram,West Bengal,Green,3,0,,,,
+409,Cooch Behar,West Bengal,Green,0,0,31,12,4,1
+410,Uttar Dinajpur,West Bengal,Red,17,0,24,10,4,1
+411,Sahibganj,Jharkhand,Green,0,0,10,6,1,1
+412,Godda,Jharkhand,Green,1,0,9,7,0,1
+413,Pakur,Jharkhand,Green,0,0,9,5,0,1
+414,Giridih,Jharkhand,Yellow,16,0,17,11,0,1
+415,Dumka,Jharkhand,Green,2,0,20,12,0,1
+416,Deoghar,Jharkhand,Yellow,5,0,1,9,1,1
+417,Nayagarh,Odisha,Green,32,0,16,12,1,1
+418,Khordha,Odisha,Yellow,74,3,20,16,0,2
+419,Kalahandi,Odisha,Yellow,13,0,20,18,1,1
+420,Jagatsinghapur,Odisha,Green,30,0,13,11,0,1
+421,Puri,Odisha,Green,65,0,13,17,0,1
+422,Nabarangapur,Odisha,Green,1,0,12,10,1,1
+423,Rayagada,Odisha,Green,0,0,7,11,1,1
+424,Koraput,Odisha,Yellow,1,0,6,16,0,1
+425,Malkangiri,Odisha,Green,8,0,5,6,2,1
+426,Anugul,Odisha,Green,19,0,11,9,3,1
+427,Kendrapara,Odisha,Yellow,40,0,15,8,1,1
+428,Ganjam,Odisha,Green,322,3,65,28,4,1
+429,Gajapati,Odisha,Green,4,0,3,8,0,1
+430,Mayurbhanj,Odisha,Green,14,0,33,28,3,1
+431,Sundargarh,Odisha,Yellow,33,0,31,21,1,2
+432,Kendujhar,Odisha,Green,11,0,30,17,2,1
+433,Baleshwar,Odisha,Red,126,0,33,17,1,1
+434,Jharsuguda,Odisha,Green,5,0,4,6,0,1
+435,Bargarh,Odisha,Green,0,0,19,15,1,1
+436,Debagarh,Odisha,Green,2,0,1,4,0,1
+437,Sambalpur,Odisha,Green,5,0,2,11,2,1
+438,Mahasamund,Chhattisgarh,Green,0,0,25,5,0,1
+439,Uttar Bastar Kanker,Chhattisgarh,Green,1,0,11,6,0,1
+440,Narayanpur,Chhattisgarh,Green,0,0,5,1,0,1
+441,Dakshin Bastar Dantewada,Chhattisgarh,Green,0,0,9,3,0,1
+442,Bastar,Chhattisgarh,Green,0,0,16,6,0,1
+443,Kondagaon,Chhattisgarh,Green,0,0,,,,
+444,Gariaband,Chhattisgarh,Green,1,0,,,,
+445,Raipur,Chhattisgarh,Red,9,0,40,11,3,1
+446,Durg,Chhattisgarh,Green,10,0,24,8,1,1
+447,Dhamtari,Chhattisgarh,Green,0,0,13,4,1,1
+448,Sukma,Chhattisgarh,Green,0,0,,,,
+449,Balod,Chhattisgarh,Green,14,0,,,,
+450,Koriya,Chhattisgarh,Green,5,0,26,6,0,1
+451,Jashpur,Chhattisgarh,Green,1,0,32,8,2,1
+452,Korba,Chhattisgarh,Yellow,29,0,23,7,0,1
+453,Kabeerdham,Chhattisgarh,Green,8,0,32,8,1,1
+454,Janjgir - Champa,Chhattisgarh,Green,14,0,44,11,1,1
+455,Bametara,Chhattisgarh,Green,0,0,,,,
+456,Rajnandgaon,Chhattisgarh,Green,10,0,36,10,1,1
+457,Surajpur,Chhattisgarh,Green,7,0,,,,
+458,Baloda Bazar,Chhattisgarh,Green,11,0,,,,
+459,Mungeli,Chhattisgarh,Green,3,0,,,,
+460,Surguja,Chhattisgarh,Green,6,0,24,7,1,1
+461,Balrampur,Chhattisgarh,Green,0,0,,,,
+462,Bijapur,Chhattisgarh,Yellow,0,0,5,5,0,1
+463,Raigarh,Chhattisgarh,Green,9,0,50,9,3,1
+464,Bilaspur,Chhattisgarh,Green,18,0,27,3,0,1
+465,Burhanpur,Madhya Pradesh,Red,229,16,15,4,0,1
+466,Morena,Madhya Pradesh,Green,54,0,24,7,3,1
+467,Bhind,Madhya Pradesh,Green,27,0,14,7,1,1
+468,Gwalior,Madhya Pradesh,Green,79,2,25,3,4,1
+469,Sheopur,Madhya Pradesh,Green,7,0,7,3,0,1
+470,Shivpuri,Madhya Pradesh,Green,6,0,15,9,0,1
+471,Tikamgarh,Madhya Pradesh,Green,4,0,23,7,0,1
+472,Neemuch,Madhya Pradesh,Red,66,3,18,3,2,1
+473,Rewa,Madhya Pradesh,Green,15,0,37,9,3,1
+474,Satna,Madhya Pradesh,Green,15,0,45,9,2,1
+475,Guna,Madhya Pradesh,Green,2,0,5,5,1,1
+476,Ashoknagar,Madhya Pradesh,Green,10,1,6,2,2,1
+477,Mandsaur,Madhya Pradesh,Red,65,5,40,7,2,1
+478,Singrauli,Madhya Pradesh,Green,7,0,13,7,0,1
+479,Sidhi,Madhya Pradesh,Green,8,0,28,6,0,1
+480,Sagar,Madhya Pradesh,Green,42,2,32,11,3,1
+481,Damoh,Madhya Pradesh,Green,6,0,13,6,1,1
+482,Shajapur,Madhya Pradesh,Green,9,1,17,4,3,1
+483,Vidisha,Madhya Pradesh,Green,25,0,13,7,2,1
+484,Rajgarh,Madhya Pradesh,Green,2,0,24,5,4,1
+485,Shahdol,Madhya Pradesh,Green,3,0,20,7,1,1
+486,Katni,Madhya Pradesh,Green,1,0,20,6,1,1
+487,Umaria,Madhya Pradesh,Green,2,0,13,3,0,1
+488,Ratlam,Madhya Pradesh,Green,31,0,28,6,2,1
+489,Bhopal,Madhya Pradesh,Red,1103,41,10,2,3,1
+490,Ujjain,Madhya Pradesh,Red,411,49,19,5,6,1
+491,Raisen,Madhya Pradesh,Green,67,3,19,7,3,1
+492,Sehore,Madhya Pradesh,Green,6,1,18,8,2,1
+493,Jabalpur,Madhya Pradesh,Red,201,9,24,6,3,1
+494,Dewas,Madhya Pradesh,Red,80,8,11,7,2,1
+495,Anuppur,Madhya Pradesh,Green,2,0,14,8,0,1
+496,Jhabua,Madhya Pradesh,Green,11,1,21,5,2,1
+497,Dindori,Madhya Pradesh,Green,9,0,21,7,0,1
+498,Narsimhapur,Madhya Pradesh,Green,0,0,23,7,1,1
+499,Dhar,Madhya Pradesh,Red,105,3,49,15,1,1
+500,Indore,Madhya Pradesh,Red,2896,110,33,6,3,1
+501,Mandla,Madhya Pradesh,Green,1,0,34,8,1,1
+502,Hoshangabad,Madhya Pradesh,Green,37,4,16,6,2,1
+503,Seoni,Madhya Pradesh,Green,2,0,26,5,3,1
+504,Alirajpur,Madhya Pradesh,Green,5,0,16,6,0,1
+505,Chhindwara,Madhya Pradesh,Green,4,1,64,11,4,1
+506,Harda,Madhya Pradesh,Green,1,0,7,4,0,1
+507,West Nimar,Madhya Pradesh,Green,117,8,58,10,2,1
+508,East Nimar,Madhya Pradesh,Red,201,10,24,7,1,1
+509,Balaghat,Madhya Pradesh,Green,3,0,34,7,3,1
+510,Barwani,Madhya Pradesh,Green,39,0,21,8,2,1
+511,Agar Malwa,Madhya Pradesh,Green,13,1,,,,
+512,Datia,Madhya Pradesh,Green,5,0,11,4,2,1
+513,Chhatarpur,Madhya Pradesh,Green,0,0,27,10,0,1
+514,Panna,Madhya Pradesh,Green,3,0,14,6,0,1
+515,Betul,Madhya Pradesh,Green,13,0,31,9,1,1
+516,Valsad,Gujarat,Yellow,18,1,31,10,2,0
+517,Amreli,Gujarat,Green,4,0,6,12,3,1
+518,The Dangs,Gujarat,Yellow,2,0,0,3,0,1
+519,Banas Kantha,Gujarat,Red,99,4,81,27,3,1
+520,Patan,Gujarat,Yellow,71,3,25,15,0,1
+521,Mahesana,Gujarat,Yellow,99,4,27,12,3,1
+522,Gandhinagar,Gujarat,Red,210,10,13,9,1,0
+523,Ahmadabad,Gujarat,Red,10001,669,83,16,2,0
+524,Panch Mahals,Gujarat,Red,72,6,31,13,0,1
+525,Dohad,Gujarat,Yellow,32,0,37,21,1,0
+526,Vadodara,Gujarat,Red,806,35,46,10,0,1
+527,Bharuch,Gujarat,Yellow,37,3,26,10,0,1
+528,Porbandar,Gujarat,Green,6,0,7,4,0,1
+529,Narmada,Gujarat,Yellow,15,0,13,4,1,1
+530,Surat,Gujarat,Red,1285,60,55,21,1,0
+531,Tapi,Gujarat,Yellow,6,0,28,8,0,1
+532,Aravalli,Gujarat,Red,98,3,,,,
+533,Botad,Gujarat,Yellow,56,1,,,,
+534,Chota Udaipur,Gujarat,Yellow,22,0,,,,
+535,Mahisagar,Gujarat,Yellow,79,1,,,,
+536,Gir Somnath,Gujarat,Yellow,44,0,,,,
+537,Sabar Kantha,Gujarat,Yellow,63,2,16,13,1,0
+538,Kachchh,Gujarat,Yellow,64,1,32,17,2,0
+539,Surendranagar,Gujarat,Yellow,23,0,46,12,2,1
+540,Rajkot,Gujarat,Yellow,87,2,47,13,4,1
+541,Kheda,Gujarat,Yellow,59,3,25,15,1,1
+542,Anand,Gujarat,Red,90,9,33,14,1,1
+543,Bhavnagar,Gujarat,Red,114,8,15,5,0,1
+544,Junagadh,Gujarat,Green,26,0,32,10,0,0
+545,Jamnagar,Gujarat,Yellow,46,2,16,9,0,0
+546,Devbhoomi Dwarka,Gujarat,Green,12,0,,,,
+547,Morbi,Gujarat,Green,3,0,,,,
+548,Navsari,Gujarat,Yellow,15,0,25,12,2,1
+549,Daman,Daman & Diu,Green,0,0,0,1,0,1
+550,Diu,Daman & Diu,Green,0,0,0,1,0,1
+551,Dadra & Nagar Haveli,Dadra & Nagar Have,Green,2,0,8,2,1,1
+552,Gondiya,Maharashtra,Green,3,0,32,10,1,0
+553,Bhandara,Maharashtra,Green,13,0,6,7,2,1
+554,Jalgaon,Maharashtra,Red,342,41,88,18,3,0
+555,Wardha,Maharashtra,Green,3,1,4,8,2,1
+556,Buldana,Maharashtra,Green,42,5,57,13,1,1
+557,Akola,Maharashtra,Red,357,20,37,5,1,0
+558,Nashik,Maharashtra,Red,890,47,110,23,6,1
+559,Gadchiroli,Maharashtra,Green,14,0,1,9,3,1
+560,Washim,Maharashtra,Green,8,0,1,6,1,1
+561,Chandrapur,Maharashtra,Green,15,0,24,10,3,0
+562,Yavatmal,Maharashtra,Green,112,0,64,14,4,0
+563,Jalna,Maharashtra,Green,48,0,43,9,1,1
+564,Ahmadnagar,Maharashtra,Green,67,2,93,24,2,1
+565,Hingoli,Maharashtra,Green,115,0,3,3,2,1
+566,Nanded,Maharashtra,Green,97,5,40,13,4,1
+567,Parbhani,Maharashtra,Green,23,1,39,6,2,1
+568,Pune,Maharashtra,Red,4834,240,143,34,5,1
+569,Bid,Maharashtra,Green,15,0,56,10,3,1
+570,Mumbai Suburban,Maharashtra,Red,4,1,,,,
+571,Mumbai,Maharashtra,Red,28817,949,120,0,0,0
+572,Latur,Maharashtra,Green,61,2,30,10,1,0
+573,Osmanabad,Maharashtra,Green,26,0,21,6,3,1
+574,Solapur,Maharashtra,Red,532,33,93,16,3,0
+575,Satara,Maharashtra,Green,186,4,44,15,2,1
+576,Ratnagiri,Maharashtra,Green,136,3,69,8,3,1
+577,Sangli,Maharashtra,Green,73,1,70,14,2,0
+578,Kolhapur,Maharashtra,Green,190,1,91,18,4,0
+579,Sindhudurg,Maharashtra,Green,10,1,21,7,3,1
+580,Thane,Maharashtra,Red,5580,101,113,15,3,1
+581,Palghar,Maharashtra,Red,553,17,60,10,3,0
+582,Nandurbar,Maharashtra,Green,32,2,49,12,2,1
+583,Amravati,Maharashtra,Red,149,14,20,11,4,1
+584,Dhule,Maharashtra,Red,101,9,45,6,2,1
+585,Nagpur,Maharashtra,Green,450,9,77,10,2,0
+586,Aurangabad,Maharashtra,Yellow,1180,43,64,12,3,1
+587,Raigarh,Maharashtra,Green,592,17,59,9,5,1
+588,Bidar,Karnataka,Yellow,81,3,58,8,4,0
+589,Gulbarga,Karnataka,Yellow,136,8,93,16,6,0
+590,Belgaum,Karnataka,Yellow,127,1,148,16,9,0
+591,Yadgir,Karnataka,Green,84,0,42,6,2,1
+592,Bagalkot,Karnataka,Yellow,77,1,49,8,5,1
+593,Raichur,Karnataka,Green,66,0,52,6,4,0
+594,Koppal,Karnataka,Green,3,0,49,9,3,0
+595,Gadag,Karnataka,Yellow,38,1,39,2,4,0
+596,Bellary,Karnataka,Yellow,33,1,73,11,6,1
+597,Dharwad,Karnataka,Yellow,38,0,45,0,3,1
+598,Uttara Kannada,Karnataka,Yellow,68,0,83,3,10,0
+599,Haveri,Karnataka,Green,6,0,69,5,6,1
+600,Chitradurga,Karnataka,Green,11,0,82,11,5,1
+601,Davanagere,Karnataka,Green,119,4,101,6,5,1
+602,Shimoga,Karnataka,Green,34,0,110,7,6,0
+603,Udupi,Karnataka,Green,54,1,62,6,2,1
+604,Chikmagalur,Karnataka,Green,5,0,90,5,6,1
+605,Chikkaballapura,Karnataka,Yellow,104,2,60,2,5,1
+606,Hassan,Karnataka,Green,86,0,136,15,7,0
+607,Kolar,Karnataka,Green,14,0,69,2,4,1
+608,Bangalore Rural,Karnataka,Red,11,0,96,5,3,0
+609,Dakshina Kannada,Karnataka,Yellow,64,5,72,8,4,1
+610,Bangalore,Karnataka,Red,267,10,48,2,4,0
+611,Kodagu,Karnataka,Green,2,0,29,7,2,0
+612,Chamarajanagar,Karnataka,Green,0,0,64,3,3,0
+613,Tumkur,Karnataka,Yellow,24,2,147,4,9,1
+614,Ramanagara,Karnataka,Green,0,0,63,5,3,1
+615,Mandya,Karnataka,Yellow,236,0,115,10,6,0
+616,Mysore,Karnataka,Red,92,0,147,10,6,0
+617,Bijapur,Karnataka,Green,68,4,68,9,4,1
+618,North Goa,Goa,Green,5,0,0,3,0,1
+619,South Goa,Goa,Green,42,0,0,2,2,1
+620,Lakshadweep,Lakshadweep,Green,0,0,4,3,2,1
+621,Kasaragod,Kerala,Yellow,209,0,35,6,5,1
+622,Wayanad,Kerala,Green,23,0,20,9,2,1
+623,Kozhikode,Kerala,Yellow,45,0,61,16,7,1
+624,Malappuram,Kerala,Yellow,74,1,79,21,7,3
+625,Palakkad,Kerala,Yellow,58,0,65,19,6,1
+626,Thrissur,Kerala,Yellow,35,1,65,24,6,1
+627,Idukki,Kerala,Yellow,26,0,33,13,4,2
+628,Ernakulam,Kerala,Green,29,1,75,23,11,1
+629,Alappuzha,Kerala,Yellow,18,0,49,16,6,2
+630,Kottayam,Kerala,Red,31,0,47,20,3,0
+631,Pathanamthitta,Kerala,Yellow,25,0,35,12,4,1
+632,Kollam,Kerala,Yellow,34,0,50,17,8,1
+633,Thiruvananthapuram,Kerala,Yellow,24,1,70,24,8,2
+634,Kannur,Kerala,Red,150,1,77,9,7,1
+635,Thiruvallur,Tamil Nadu,Red,697,4,37,14,10,1
+636,Vellore,Tamil Nadu,Green,157,1,55,20,12,1
+637,Chennai,Tamil Nadu,Red,9989,80,143,15,3,0
+638,Kancheepuram,Tamil Nadu,Red,997,4,29,13,9,1
+639,Krishnagiri,Tamil Nadu,Green,22,0,3,10,6,1
+640,Tiruvannamalai,Tamil Nadu,Yellow,305,0,59,18,9,1
+641,Dharmapuri,Tamil Nadu,Yellow,5,0,5,8,3,1
+642,Salem,Tamil Nadu,Yellow,52,0,16,20,11,1
+643,Erode,Tamil Nadu,Green,71,3,42,14,7,1
+644,The Nilgiris,Tamil Nadu,Yellow,14,0,3,4,5,1
+645,Namakkal,Tamil Nadu,Red,77,0,28,15,8,1
+646,Perambalur,Tamil Nadu,Yellow,139,0,1,4,3,1
+647,Coimbatore,Tamil Nadu,Yellow,146,0,37,12,12,1
+648,Tiruchirappalli,Tamil Nadu,Yellow,72,0,53,14,9,1
+649,Ariyalur,Tamil Nadu,Green,355,0,8,6,3,1
+650,Tiruppur,Tamil Nadu,Red,114,0,12,13,9,1
+651,Thanjavur,Tamil Nadu,Red,80,0,50,14,13,1
+652,Karur,Tamil Nadu,Green,80,0,7,8,6,1
+653,Thiruvarur,Tamil Nadu,Red,35,0,28,10,7,1
+654,Dindigul,Tamil Nadu,Yellow,133,0,25,14,12,1
+655,Madurai,Tamil Nadu,Red,226,1,49,13,6,1
+656,Theni,Tamil Nadu,Yellow,102,2,2,8,5,1
+657,Virudhunagar,Tamil Nadu,Red,97,0,3,11,10,1
+658,Tirunelveli,Tamil Nadu,Yellow,367,2,69,19,16,1
+659,Thoothukkudi,Tamil Nadu,Yellow,149,3,16,12,8,1
+660,Kanniyakumari,Tamil Nadu,Yellow,49,1,25,9,8,1
+661,Viluppuram,Tamil Nadu,Yellow,326,1,62,22,11,1
+662,Cuddalore,Tamil Nadu,Yellow,423,1,36,13,9,1
+663,Nagapattinam,Tamil Nadu,Yellow,51,0,31,11,11,1
+664,Pudukkottai,Tamil Nadu,Yellow,19,0,3,13,12,1
+665,Sivaganga,Tamil Nadu,Yellow,29,0,14,12,16,1
+666,Ramanathapuram,Tamil Nadu,Yellow,55,1,4,11,9,1
+667,Puducherry,Puducherry,Yellow,13,0,10,2,3,2
+668,Karaikal,Puducherry,Green,2,0,0,1,2,1
+669,Komaram Bheem,Telangana,Yellow,7,0,,,,
+670,Mahabubabad,Telangana,Green,1,0,,,,
+671,Mahabubnagar,Telangana,Yellow,12,1,0,2,1,0
+672,Mancherial,Telangana,Yellow,1,1,,,,
+673,Medak,Telangana,Yellow,5,0,0,2,2,0
+674,Medchal Malkajgiri,Telangana,Red,23,1,,,,
+675,Nagarkurnool,Telangana,Green,2,0,0,4,1,0
+676,Nalgonda,Telangana,Yellow,17,0,0,3,1,0
+677,Nirmal,Telangana,Yellow,20,0,0,2,2,0
+678,Nizamabad,Telangana,Yellow,62,1,0,8,1,0
+679,Peddapalle,Telangana,Green,2,0,0,3,1,0
+680,Rajanna,Telangana,Yellow,3,0,0,0,1,0
+681,Mahe,Puducherry,Green,2,0,1,1,1,1
+682,Rangareddy,Telangana,Red,47,2,0,4,0,1
+683,Sangareddy,Telangana,Yellow,9,0,0,2,4,1
+684,Siddipet,Telangana,Green,1,0,0,3,2,0
+685,Suryapet,Telangana,Red,83,0,0,2,2,0
+686,Vikarabad,Telangana,Red,38,1,,,,
+687,Wanaparthy,Telangana,Green,0,0,,,,
+688,Warangal Rural,Telangana,Green,2,0,,,,
+689,Warangal Urban,Telangana,Red,27,0,0,0,0,0
+690,Yadadri,Telangana,Green,14,0,,,,
+691,Bhadradri,Telangana,Green,4,0,,,,
+692,Srikakulam,Andhra Pradesh,Yellow,16,0,7,15,2,1
+693,Vizianagaram,Andhra Pradesh,Green,16,0,4,11,1,1
+694,Visakhapatnam,Andhra Pradesh,Yellow,81,1,14,12,3,1
+695,Krishna,Andhra Pradesh,Red,396,15,15,12,2,1
+696,Guntur,Andhra Pradesh,Red,426,8,15,17,2,1
+697,East Godavari,Andhra Pradesh,Yellow,59,0,12,26,3,1
+698,Prakasam,Andhra Pradesh,Yellow,67,0,6,14,2,1
+699,Kurnool,Andhra Pradesh,Red,638,21,3,18,1,1
+700,Anantapur,Andhra Pradesh,Yellow,136,4,16,15,2,1
+701,Sri Potti Sriramulu Nell*,Andhra Pradesh,Red,182,3,7,14,2,1
+702,West Godavari,Andhra Pradesh,Yellow,75,0,9,14,3,1
+703,Y.S.R.,Andhra Pradesh,Yellow,107,0,6,12,1,1
+704,Chittoor,Andhra Pradesh,Red,208,1,7,15,4,2
+705,Yanam,Puducherry,Green,0,0,0,0,0,1
+706,North  & Middle Andaman,Andaman & Nicobar,Green,1,0,8,2,0,1
+707,South Andaman,Andaman & Nicobar,Green,33,0,10,1,0,1
+708,Nicobars,Andaman & Nicobar,Green,0,0,4,1,0,1
+709,Adilabad,Telangana,Yellow,20,0,0,3,1,0
+710,Hyderabad,Telangana,Red,1161,41,0,10,3,1
+711,Jagtial,Telangana,Yellow,6,0,,,,
+712,Jangaon,Telangana,Yellow,3,0,0,0,1,0
+713,Jayashankar,Telangana,Yellow,5,0,,,,
+714,Jogulamba,Telangana,Yellow,45,1,0,1,1,0
+715,Kamareddy,Telangana,Yellow,12,0,0,6,2,0
+716,Karimnagar,Telangana,Yellow,19,0,0,3,0,1
+717,Khammam,Telangana,Yellow,8,0,0,3,0,1
